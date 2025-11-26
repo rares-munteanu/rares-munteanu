@@ -1,53 +1,83 @@
-# Rareș Munteanu
+<h1 align="center">Hi, I'm Rares 👋</h1>
+<h3 align="center">Senior Full-Stack Mobile Engineer • React Native • Node.js • TypeScript</h3>
 
-**Senior Full Stack Engineer** — React Native • Node.js • TypeScript
-
-I build mobile apps people enjoy using and teams love to maintain.
-
----
-
-### What I Ship
-
-🔐 **Crypto Wallets** — Multi-blockchain signing flows (Ethereum, Solana, NEAR, Cosmos, Bitcoin, Astar), WalletConnect, Threshold Signatures  
-⚡ **Performance** — 30% load time reduction, 99%+ crash-free sessions, optimistic UX flows  
-🚀 **Reliable Releases** — 0-crash launches, CI/CD with GitHub Actions & EAS, TypeScript strict mode end-to-end  
-
----
-
-### Tech Stack
-
-**Mobile & Web:** React Native, Expo, React  
-**Backend:** Node.js, Express, Firebase, Flask  
-**Languages:** TypeScript, JavaScript, Python  
-**Infra & Tooling:** Docker, GitHub Actions, EAS, Sentry, Socket.IO  
-**Web3:** WalletConnect, Polkadot, MetaMask, multi-chain integrations  
-
----
-
-### Recent Work
-
-**Gridlock** (2023–Present)  
-Full Stack Engineer on a Web3 crypto wallet with Threshold Signature cryptography. Integrated Astar Portal in 2 weeks with 0 crash rate. Built multi-chain support and advanced signing flows.
-
-**Olyn** (2021–2022)  
-Full Stack Developer for a tokenization startup. Delivered a cross-platform asset-registry app with <2% visual diff from Figma and 0 design blockers.
-
----
-
-### Let's Connect
-
-📫 rares.munteanucni@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/rares-munteanu)
-
----
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<p align="center">
+I turn product ideas into reliable cross-platform apps - from crypto wallets and asset registries to media and university platforms.
 </p>
+
+---
+
+### 🚀 What I do
+
+- Build **React Native / Expo** apps that ship to both iOS and Android with one codebase.
+- Design and implement **Node.js / TypeScript** backends and APIs that are simple to reason about and easy to maintain.
+- Work end-to-end: requirements → architecture → implementation → testing → CI/CD → releases → monitoring.
+- Focus on **performance, crash-rate reduction, and developer experience** so teams can move fast without breaking things.
+
+---
+
+### 💼 A few highlights
+
+#### 🔐 Gridlock - Web3 mobile wallet
+- Integrated **NEAR, Cosmos, Astar, Bitcoin, Polkadot native wallets and MetaMask-compatible EVM wallets** into a single mobile wallet.
+- Shipped **Astar Portal support in ~2 weeks with 0 crashes at launch**.
+- Reduced app load time by ~**30%** through bundle optimization, lazy loading, and caching.
+- Improved **WalletConnect** reliability and UX across Ethereum and Solana signing flows.
+- Contributed across both **React Native** (mobile) and **Node.js** (backend) to move the product forward.
+
+#### 📦 Olyn - tokenized asset registry
+- Delivered a cross-platform asset-registry app in **React Native**, matching Figma designs with **<2% visual diff** across screens.
+- Reached **99%+ crash-free sessions** in beta by tightening error boundaries and adding monitoring.
+- Established a maintainable codebase using React Native best practices and a clear separation-of-concerns architecture.
+- Reduced defect risk by adopting **TypeScript end-to-end**, including strict typings for third-party libraries.
+- Set up advanced project tooling (**ESLint, Prettier, strict TypeScript configs**) to keep the codebase predictable and consistent.
+
+#### 📻 Freelance - radio & university apps
+- Built a **University mobile app** as a Bachelor’s thesis, translating the full website functionality into a mobile experience for students and staff.
+- Shipped **Jurnal FM** - live radio streaming + a news section for real-time updates.
+- Shipped **Radio Ciufulici** - a simple, intuitive, and reliable live radio streaming app.
+- Standardized project setup with **TypeScript, ESLint, Prettier, GitHub Actions** to keep releases boring and safe.
+
+---
+
+### 🛠️ Tech I enjoy
+
+**Mobile:** React Native, Expo, EAS  
+**Web:** React, Vite  
+**Backend:** Node.js, Express, REST, WebSockets / Socket.IO  
+**Data & infra:** Firebase, MongoDB, PostgreSQL  
+**Tooling & DevEx:** TypeScript (strict), ESLint, Prettier, Jest, Docker, GitHub Actions, Sentry  
+**Web3 & integrations:** WalletConnect, multi-chain signing flows, crypto wallets  
+**State & data:** Zustand, React Query  
+
+---
+
+### 🧠 How I like to work
+
+- Own features **end-to-end** - from early product conversations to post-release metrics.
+- Keep PRs **small, readable, and focused**, with tests where they matter most.
+- Prefer **clear, async-friendly communication** and good documentation over meetings.
+- Care about **DX** (developer experience): fast feedback loops, solid tooling, and clean architecture.
+- Always leave the codebase **slightly better** than I found it.
+
+---
+
+### 📊 GitHub at a glance
+
+> _These cards are generated by external services; feel free to tweak or remove._
+
+![Rares's GitHub stats](https://github-readme-stats.vercel.app/api?username=rares-munteanu&show_icons=true&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rares-munteanu&layout=compact&hide_border=true)
+
+---
+
+### 📬 Reach out
+
+- Email: **rares.munteanucni@gmail.com**
+- LinkedIn: [linkedin.com/in/rares-munteanu](https://www.linkedin.com/in/rares-munteanu)
+- GitHub: [github.com/rares-munteanu](https://github.com/rares-munteanu)
+
+---
+
+<sub>Open to senior / lead mobile and full-stack roles, as well as impactful contract work.</sub>
