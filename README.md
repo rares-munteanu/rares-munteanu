@@ -133,7 +133,7 @@ I turn product ideas into reliable cross-platform apps - from crypto wallets and
 
 - Email: **rares.munteanucni@gmail.com**
 - LinkedIn: [linkedin.com/in/rares-munteanu](https://www.linkedin.com/in/rares-munteanu)
-- Personal website: [raresmunteanu.ro](raresmunteanu.ro)
+- Personal website: [raresmunteanu.ro](https://www.raresmunteanu.ro)
 
 ---
 
